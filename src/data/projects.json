@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Artificial Intelligence-Based Chatbot for Electrical Appliance Control",
+    "imageSrc": "projects/project.png",
+    "description": "This project presents an artificial intelligence-based chatbot for controlling electrical home appliances using ESP8266-12E NodeMCU and Facebook Messenger platform.",
+    "skills": ["AI","IOT","IFTTT"]  
+  },
+  {
+    "title": "Student Management System",
+    "imageSrc": "projects/project.png",
+    "description": "This project is dynamic and interactive single-page web application developed using Angular and TypeScript.It streamlines the management of student data.",
+    "skills": ["HTML","CSS","Javascript"]
+  },
+  {
+    "title": "My React Portfolio–Showcasing Skills and Creativity",
+    "imageSrc": "projects/project.png",
+    "description": "A modern, responsive single-page portfolio built with React.js and Vite.Designed with a minimalist approach, the portfolio ensures a seamless user experience.",
+    "skills": ["React.js","Vite","Javascript/ES6"]
+  }
+]

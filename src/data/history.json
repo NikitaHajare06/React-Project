@@ -1,0 +1,19 @@
+[
+  {
+    "role": "System Engineer",
+    "organisation": "TCS",
+    "startDate": "Feb, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Web and Mobile Application", "Reduced load times by 50%"],
+    "imageSrc": "history/tcs.png"
+  },
+  {
+    "role": "Programmer Analyst",
+    "organisation": "Cognizant",
+    "startDate": "Feb, 2021",
+    "endDate": "January, 2023",
+    "experiences": ["Worked in an Agile environment", "Build scalable web applications"],
+    "imageSrc": "history/cogni-logo1.png"
+  }
+  
+]
